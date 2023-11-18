@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="E:/AIUB STUDY/11th semeser/adv. Java/final/class task/4.UserloginUsingjstl/UserLogin/webapps">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="E:/AIUB STUDY/11th semeser/adv. Java/final/class task/4.UserloginUsingjstl/UserLogin/out/production/UserLogin" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="D:/install/JAVA jstl jar file/javax.servlet.jsp.jstl-1.2.5.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.5.jar"/>
+    <PostResources base="D:/install/JAVA jstl jar file/javax.servlet.jsp.jstl-api-1.2.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.2.jar"/>
+    <PostResources base="D:/install/JAVA jstl jar file/mysql-connector-java-8.0.30.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mysql-connector-java-8.0.30.jar"/>
+    <PostResources base="D:/install/apache-tomcat-8.5.93/lib/servlet-api.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/servlet-api.jar"/>
+  </Resources>
+</Context>
